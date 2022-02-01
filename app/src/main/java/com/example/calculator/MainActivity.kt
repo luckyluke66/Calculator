@@ -20,4 +20,8 @@ class MainActivity : AppCompatActivity() {
     fun onDigit(view: View) {
         tvInput?.append("1")
     }
+
+    fun test(){
+
+    }
 }
